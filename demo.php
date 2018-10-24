@@ -2,6 +2,7 @@
 
 // Show name to response.
 $name = "demo";
+$last_name = "user";
 
-echo $demo;
+echo $demo . ' ' . $last_name;
 
